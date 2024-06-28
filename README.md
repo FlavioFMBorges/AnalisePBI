@@ -1,4 +1,4 @@
-# Analise Power BI
+# Analise Power BI dataset financeiro
 Análise e criação de dashboards no Power BI com uso de dataset sample do próprio PBI. Arquivos de imagens e pdf exportados do PowerBI Online estão nas pastas [JPG](https://github.com/FlavioFMBorges/AnalisePBI/tree/main/jpg) e [PDF](https://github.com/FlavioFMBorges/AnalisePBI/tree/main/pdf).
 
 O sample tinha as seguintes colunas:
