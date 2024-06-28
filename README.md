@@ -5,7 +5,7 @@ Segment | Country | Product | Discount Band | Units Sold | Manufacturing Price |
 
 Relatório de Vendas Considerando Produtos e Segmentos
 
-https://github.com/FlavioFMBorges/AnalisePBI/blob/main/jpg/pag1-01.jpg
+![Relatório de Vendas Considerando Produtos e Segmentos](https://github.com/FlavioFMBorges/AnalisePBI/blob/main/jpg/pag1-01.jpg)
 
 Gráfico 0
 Título: Média do preço de venda por produto
@@ -26,7 +26,7 @@ Abaixo temos um gráfico de colunas clusterizado, mostra um gráfico de barras a
 -----------------------------
 
 Página 2 - Relatório de Vendas Considerando Países e Lucro
-https://github.com/FlavioFMBorges/AnalisePBI/blob/main/jpg/pag2-01.jpg
+"[Relatório de Vendas Considerando Países e Lucro](https://github.com/FlavioFMBorges/AnalisePBI/blob/main/jpg/pag2-01.jpg)
 
 Gráfico 0
 Título: Soma de vendas e soma de unidades vendidas
@@ -47,7 +47,7 @@ Abaixo temos um gráfico de colunas clusterizado, mostra um gráfico de barras a
 -----------------------------
 
 Distribuição de Lucro, Vendas e Unidades vendidas por país e segmento
-https://github.com/FlavioFMBorges/AnalisePBI/blob/main/jpg/pag3-01.jpg
+![Distribuição de Lucro, Vendas e Unidades vendidas por país e segmento](https://github.com/FlavioFMBorges/AnalisePBI/blob/main/jpg/pag3-01.jpg)
 
 Gráfico 0
 Título: Soma do lucro por segmento
